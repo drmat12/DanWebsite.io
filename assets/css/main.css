@@ -3161,14 +3161,14 @@
 }
 .skillbar-bar.Dreamweaver {
   width: 60%;
-  background: gray;
+  background: #6ebb8b;
 }
 .skillbar-bar.Loadrunner {
   width: 50%;
-  background: orange;
+  background: blue;
 }
 .skillbar-bar.Cisco-CSS-Configuration {
-  width: 60%;
+  width: 50%;
   background: silver;
 }
 .skillbar-bar.Unix {
@@ -3186,8 +3186,9 @@
   }
    .skillbar-bar.Sharepointdesigner {
   width: 50%;
-  background: purple;
-  } .skillbar-bar.Oracle {
+  background: purple;  
+  } 
+  .skillbar-bar.Oracle {
   width: 30%;
   background: aqua;
   }
