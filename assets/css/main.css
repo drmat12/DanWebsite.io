@@ -3147,6 +3147,10 @@
   width:70%;
   background: #b387c3;
 }
+.skillbar-bar.Software Testing {
+  width:40%;
+  background: aqua;
+}
 .skillbar-bar.Subversion {
   width: 60%;
   background: #7793d2;
