@@ -3135,7 +3135,7 @@
   background: #2c3e50;
 }
 .skillbar-bar.TSQL {
-  width: 70%;
+  width: 50%;
   background: #c95c7b;
 }
 .skillbar-bar.SSIS {
@@ -3144,7 +3144,7 @@
 }
 
 .skillbar-bar.visualstudio {
-  width:70%;
+  width:60%;
   background: #b387c3;
 }
 .skillbar-bar.Software-Testing {
